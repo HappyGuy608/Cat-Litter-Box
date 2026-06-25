@@ -8,4 +8,4 @@ A custom cat litter box that is highly customizable and accessible.
 
 # Usage
 Listed are the STL files that need to be 3D Printed any litter is fine as long as it is between 7-10 Lbs or 3-4.5 Kgs.
-1. First assemble the electronic components (refer to the assembly part for steps)
+1. First assemble the electronic components (refer to the assembly for steps)
