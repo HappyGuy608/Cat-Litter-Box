@@ -9,6 +9,8 @@ A custom cat litter box that is highly customizable and accessible.
 - Female Power Adapter
 - 20 mm OD Bushings
 - Gearbox with 1:1 gear ratio
+- 5mm key for the Gearbox
+- Love joy connection (15 mm OD, 8 mm OD)
 
 # Usage
 Listed are the STL files that need to be 3D Printed any litter is fine as long as it is between 7-10 Lbs or 3-4.5 Kgs.
