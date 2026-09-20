@@ -19,5 +19,5 @@ Listed are the STL files that need to be 3D Printed any litter is fine as long a
 3. Code the raspberry pi (https://www.youtube.com/watch?v=HITf-_koVgs&t=187s) //basic tutorial (code template is in another file)
 
 # Files
-STEP & STL Files are posted for each component & assembly
+STL Files are posted for each component & assembly
 
